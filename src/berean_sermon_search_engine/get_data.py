@@ -10,10 +10,7 @@ def main():
     load_dotenv()
     
     download_video_details()
-    download_transcripts()  # Currently a placeholder.
-    
-    # Print the project root (one level above this file).
-    print(Path(__file__).resolve().parents[1])
+    download_transcripts()  
     
 def download_video_details():
     """
