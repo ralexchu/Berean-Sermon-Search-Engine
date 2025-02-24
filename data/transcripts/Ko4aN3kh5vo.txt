@@ -1,0 +1,739 @@
+
+[00:00:00.000 --> 00:00:10.000]   ♪♪
+[00:00:10.000 --> 00:00:20.000]   ♪♪
+[00:00:20.000 --> 00:00:30.000]   ♪♪
+[00:00:30.000 --> 00:00:40.000]   ♪♪
+[00:00:40.000 --> 00:00:50.000]   ♪♪
+[00:00:50.000 --> 00:01:00.000]   ♪♪
+[00:01:00.000 --> 00:01:10.000]   ♪♪
+[00:01:10.000 --> 00:01:20.000]   ♪♪
+[00:01:20.000 --> 00:01:30.000]   ♪♪
+[00:01:30.000 --> 00:01:40.000]   ♪♪
+[00:01:40.000 --> 00:01:50.000]   ♪♪
+[00:01:50.000 --> 00:02:00.000]   ♪♪
+[00:02:00.000 --> 00:02:10.000]   ♪♪
+[00:02:10.000 --> 00:02:20.000]   ♪♪
+[00:02:20.000 --> 00:02:30.000]   ♪♪
+[00:02:30.000 --> 00:02:40.000]   ♪♪
+[00:02:40.000 --> 00:02:50.000]   ♪♪
+[00:02:50.000 --> 00:03:00.000]   ♪♪
+[00:03:00.000 --> 00:03:10.000]   ♪♪
+[00:03:10.000 --> 00:03:20.000]   ♪♪
+[00:03:20.000 --> 00:03:30.000]   ♪♪
+[00:03:30.000 --> 00:03:40.000]   ♪♪
+[00:03:40.000 --> 00:03:46.000]   ♪♪
+[00:03:46.000 --> 00:03:48.000]   ♪♪
+[00:03:48.000 --> 00:03:50.000]   ♪♪
+[00:03:50.000 --> 00:04:00.000]   ♪♪
+[00:04:00.000 --> 00:04:10.000]   ♪♪
+[00:04:10.000 --> 00:04:16.000]   ♪♪
+[00:04:16.000 --> 00:04:18.000]   ♪♪
+[00:04:18.000 --> 00:04:20.000]   ♪♪
+[00:04:20.000 --> 00:04:30.000]   ♪♪
+[00:04:30.000 --> 00:04:40.000]   ♪♪
+[00:04:40.000 --> 00:04:46.000]   ♪♪
+[00:04:46.000 --> 00:04:48.000]   ♪♪
+[00:04:48.000 --> 00:04:50.000]   ♪♪
+[00:04:50.000 --> 00:05:00.000]   ♪♪
+[00:05:00.000 --> 00:05:10.000]   ♪♪
+[00:05:10.000 --> 00:05:16.000]   ♪♪
+[00:05:16.000 --> 00:05:18.000]   ♪♪
+[00:05:18.000 --> 00:05:20.000]   ♪♪
+[00:05:20.000 --> 00:05:30.000]   ♪♪
+[00:05:30.000 --> 00:05:40.000]   ♪♪
+[00:05:40.000 --> 00:05:48.000]   ♪♪
+[00:05:48.000 --> 00:05:58.000]   ♪♪
+[00:05:58.000 --> 00:06:08.000]   ♪♪
+[00:06:08.000 --> 00:06:16.000]   ♪♪
+[00:06:16.000 --> 00:06:26.000]   ♪♪
+[00:06:26.000 --> 00:06:36.000]   ♪♪
+[00:06:36.000 --> 00:06:44.000]   ♪♪
+[00:06:44.000 --> 00:06:54.000]   ♪♪
+[00:06:54.000 --> 00:07:04.000]   ♪♪
+[00:07:04.000 --> 00:07:12.000]   ♪♪
+[00:07:12.000 --> 00:07:22.000]   ♪♪
+[00:07:22.000 --> 00:07:32.000]   ♪♪
+[00:07:32.000 --> 00:07:40.000]   ♪♪
+[00:07:40.000 --> 00:07:50.000]   ♪♪
+[00:07:50.000 --> 00:08:00.000]   ♪♪
+[00:08:00.000 --> 00:08:08.000]   ♪♪
+[00:08:08.000 --> 00:08:08.000]   ♪♪
+[00:08:08.000 --> 00:08:18.000]   ♪♪
+[00:08:18.000 --> 00:08:28.000]   ♪♪
+[00:08:28.000 --> 00:08:36.000]   ♪♪
+[00:08:36.000 --> 00:08:46.000]   ♪♪
+[00:08:46.000 --> 00:08:56.000]   ♪♪
+[00:08:56.000 --> 00:09:02.000]   ♪♪
+[00:09:02.000 --> 00:09:04.000]   ♪♪
+[00:09:04.000 --> 00:09:14.000]   ♪♪
+[00:09:14.000 --> 00:09:18.000]   ♪♪
+[00:09:18.000 --> 00:09:24.000]   ♪♪
+[00:09:24.000 --> 00:09:32.000]   ♪♪
+[00:09:32.000 --> 00:09:42.000]   ♪♪
+[00:09:42.000 --> 00:09:52.000]   ♪♪
+[00:09:52.000 --> 00:09:58.000]   ♪♪
+[00:09:58.000 --> 00:10:00.000]   ♪♪
+[00:10:00.000 --> 00:10:06.000]   ♪♪
+[00:10:06.000 --> 00:10:10.000]   ♪♪
+[00:10:10.000 --> 00:10:12.000]   ♪♪
+[00:10:12.000 --> 00:10:14.000]   ♪♪
+[00:10:14.000 --> 00:10:20.000]   ♪♪
+[00:10:20.000 --> 00:10:22.000]   ♪♪
+[00:10:22.000 --> 00:10:24.000]   ♪♪
+[00:10:24.000 --> 00:10:26.000]   ♪♪
+[00:10:26.000 --> 00:10:28.000]   ♪♪
+[00:10:28.000 --> 00:10:38.000]   ♪♪
+[00:10:38.000 --> 00:10:40.000]   ♪♪
+[00:10:40.000 --> 00:10:42.000]   ♪♪
+[00:10:42.000 --> 00:10:44.000]   ♪♪
+[00:10:44.000 --> 00:10:46.000]   ♪♪
+[00:10:46.000 --> 00:10:48.000]   ♪♪
+[00:10:48.000 --> 00:10:50.000]   ♪♪
+[00:10:50.000 --> 00:10:52.000]   ♪♪
+[00:10:52.000 --> 00:10:54.000]   ♪♪
+[00:10:54.000 --> 00:10:56.000]   ♪♪
+[00:10:56.000 --> 00:11:06.000]   ♪♪
+[00:11:06.000 --> 00:11:08.000]   ♪♪
+[00:11:08.000 --> 00:11:10.000]   ♪♪
+[00:11:10.000 --> 00:11:12.000]   ♪♪
+[00:11:12.000 --> 00:11:16.000]   ♪♪
+[00:11:16.000 --> 00:11:18.000]   ♪♪
+[00:11:18.000 --> 00:11:20.000]   ♪♪
+[00:11:20.000 --> 00:11:22.000]   ♪♪
+[00:11:22.000 --> 00:11:24.000]   ♪♪
+[00:11:24.000 --> 00:11:26.000]   ♪♪
+[00:11:26.000 --> 00:11:36.000]   ♪♪
+[00:11:36.000 --> 00:11:38.000]   ♪♪
+[00:11:38.000 --> 00:11:40.000]   ♪♪
+[00:11:40.000 --> 00:11:42.000]   ♪♪
+[00:11:42.000 --> 00:11:46.000]   ♪♪
+[00:11:46.000 --> 00:11:48.000]   ♪♪
+[00:11:48.000 --> 00:11:50.000]   ♪♪
+[00:11:50.000 --> 00:11:52.000]   ♪♪
+[00:11:52.000 --> 00:11:54.000]   ♪♪
+[00:11:54.000 --> 00:11:58.000]   ♪♪
+[00:11:58.000 --> 00:12:02.000]   ♪♪
+[00:12:02.000 --> 00:12:06.000]   ♪♪
+[00:12:06.000 --> 00:12:08.000]   ♪♪
+[00:12:08.000 --> 00:12:10.000]   ♪♪
+[00:12:10.000 --> 00:12:14.000]   ♪♪
+[00:12:14.000 --> 00:12:16.000]   ♪♪
+[00:12:16.000 --> 00:12:18.000]   ♪♪
+[00:12:18.000 --> 00:12:20.000]   ♪♪
+[00:12:20.000 --> 00:12:22.000]   ♪♪
+[00:12:22.000 --> 00:12:26.000]   ♪♪
+[00:12:26.000 --> 00:12:32.000]   ♪♪
+[00:12:32.000 --> 00:12:34.000]   ♪♪
+[00:12:34.000 --> 00:12:36.000]   ♪♪
+[00:12:36.000 --> 00:12:38.000]   ♪♪
+[00:12:38.000 --> 00:12:42.000]   ♪♪
+[00:12:42.000 --> 00:12:44.000]   ♪♪
+[00:12:44.000 --> 00:12:46.000]   ♪♪
+[00:12:46.000 --> 00:12:48.000]   ♪♪
+[00:12:48.000 --> 00:12:50.000]   ♪♪
+[00:12:50.000 --> 00:12:54.000]   ♪♪
+[00:12:54.000 --> 00:13:00.000]   ♪♪
+[00:13:00.000 --> 00:13:02.000]   ♪♪
+[00:13:02.000 --> 00:13:04.000]   ♪♪
+[00:13:04.000 --> 00:13:06.000]   ♪♪
+[00:13:06.000 --> 00:13:10.000]   ♪♪
+[00:13:10.000 --> 00:13:12.000]   ♪♪
+[00:13:12.000 --> 00:13:14.000]   ♪♪
+[00:13:14.000 --> 00:13:16.000]   ♪♪
+[00:13:16.000 --> 00:13:18.000]   ♪♪
+[00:13:18.000 --> 00:13:28.000]   ♪♪
+[00:13:28.000 --> 00:13:30.000]   ♪♪
+[00:13:30.000 --> 00:13:32.000]   ♪♪
+[00:13:32.000 --> 00:13:34.000]   ♪♪
+[00:13:34.000 --> 00:13:38.000]   ♪♪
+[00:13:38.000 --> 00:13:40.000]   ♪♪
+[00:13:40.000 --> 00:13:42.000]   ♪♪
+[00:13:42.000 --> 00:13:44.000]   ♪♪
+[00:13:44.000 --> 00:13:46.000]   ♪♪
+[00:13:46.000 --> 00:13:48.000]   ♪♪
+[00:13:48.000 --> 00:13:52.000]   ♪♪
+[00:13:52.000 --> 00:13:58.000]   ♪♪
+[00:13:58.000 --> 00:14:00.000]   ♪♪
+[00:14:00.000 --> 00:14:04.000]   ♪♪
+[00:14:04.000 --> 00:14:08.000]   ♪♪
+[00:14:08.000 --> 00:14:10.000]   ♪♪
+[00:14:10.000 --> 00:14:12.000]   ♪♪
+[00:14:12.000 --> 00:14:14.000]   ♪♪
+[00:14:14.000 --> 00:14:16.000]   ♪♪
+[00:14:16.000 --> 00:14:18.000]   ♪♪
+[00:14:18.000 --> 00:14:22.000]   ♪♪
+[00:14:22.000 --> 00:14:28.000]   ♪♪
+[00:14:28.000 --> 00:14:30.000]   ♪♪
+[00:14:30.000 --> 00:14:34.000]   ♪♪
+[00:14:34.000 --> 00:14:38.000]   ♪♪
+[00:14:38.000 --> 00:14:40.000]   ♪♪
+[00:14:40.000 --> 00:14:42.000]   ♪♪
+[00:14:42.000 --> 00:14:44.000]   ♪♪
+[00:14:44.000 --> 00:14:46.000]   ♪♪
+[00:14:46.000 --> 00:14:48.000]   ♪♪
+[00:14:48.000 --> 00:14:58.000]   ♪♪
+[00:14:58.000 --> 00:15:08.000]   ♪♪
+[00:15:08.000 --> 00:15:14.000]   ♪♪
+[00:15:14.000 --> 00:15:16.000]   ♪♪
+[00:15:16.000 --> 00:15:18.000]   ♪♪
+[00:15:18.000 --> 00:15:47.980]   ♪ ♪
+[00:15:47.980 --> 00:15:50.040]   We will rise as we continue our service,
+[00:15:50.040 --> 00:15:51.740]   but before we do, if we could spend a few moments
+[00:15:51.740 --> 00:15:52.480]   to greet our neighbors.
+[00:15:52.480 --> 00:15:59.480]   ♪ ♪
+[00:16:17.960 --> 00:16:31.700]   Let's sing, O Sovereign God.
+[00:16:31.700 --> 00:16:37.680]   O Sovereign God, O matchless King,
+[00:16:37.680 --> 00:16:43.100]   the saints adore, the angels sing,
+[00:16:43.100 --> 00:16:47.940]   and fall before the throne of grace.
+[00:16:47.940 --> 00:16:54.280]   To you belongs the highest praise.
+[00:16:54.280 --> 00:17:02.240]   These sufferings, this passing time,
+[00:17:02.240 --> 00:17:06.940]   under your wings I will abide,
+[00:17:06.940 --> 00:17:12.860]   and every enemy shall flee.
+[00:17:12.860 --> 00:17:17.920]   You are my hope and victory,
+[00:17:17.920 --> 00:17:20.680]   praise the Father.
+[00:17:20.680 --> 00:17:26.660]   Praise the Father, praise the Son,
+[00:17:26.660 --> 00:17:31.920]   praise the Spirit three in one.
+[00:17:31.920 --> 00:17:37.620]   Loathe in power and in grace,
+[00:17:37.620 --> 00:17:43.600]   the name above all other names.
+[00:17:43.600 --> 00:17:47.900]   To the valley, to the valley,
+[00:17:47.900 --> 00:17:51.240]   to the valley, for my soul,
+[00:17:51.240 --> 00:17:56.500]   thy great descent has made me whole.
+[00:17:56.500 --> 00:18:01.960]   Your word, my heart has welcomed full.
+[00:18:01.960 --> 00:18:07.660]   Now peace like water ever flows.
+[00:18:07.660 --> 00:18:13.080]   Praise the Father, praise the Son,
+[00:18:13.080 --> 00:18:17.880]   praise the Spirit three in one.
+[00:18:17.880 --> 00:18:20.640]   Loathe in power and in grace,
+[00:18:20.640 --> 00:18:22.560]   the name above all other names.
+[00:18:22.560 --> 00:18:23.640]   Praise the Father, praise the Son,
+[00:18:23.640 --> 00:18:24.640]   praise the Spirit three in one.
+[00:18:24.640 --> 00:18:25.800]   Loathe in power and in grace,
+[00:18:25.800 --> 00:18:26.640]   the name above all other names.
+[00:18:26.640 --> 00:18:27.640]   Praise the Father, praise the Son,
+[00:18:27.640 --> 00:18:28.640]   praise the Spirit three in one.
+[00:18:28.640 --> 00:18:29.640]   Praise the Father, praise the Son,
+[00:18:29.640 --> 00:18:30.640]   praise the Spirit three in one.
+[00:18:30.640 --> 00:18:31.640]   Loathe in power and in grace,
+[00:18:31.640 --> 00:18:32.640]   the name above all other names.
+[00:18:32.640 --> 00:18:33.640]   Praise the Father, praise the Son,
+[00:18:33.640 --> 00:18:34.640]   praise the Spirit three in one.
+[00:18:34.640 --> 00:18:35.640]   Loathe in power and in grace,
+[00:18:35.640 --> 00:18:36.640]   the name above all other names.
+[00:18:36.640 --> 00:18:37.640]   Praise the Father, praise the Son,
+[00:18:37.640 --> 00:18:38.640]   praise the Spirit three in one.
+[00:18:38.640 --> 00:18:39.640]   Loathe in power and in grace,
+[00:18:39.640 --> 00:18:40.640]   the name above all other names.
+[00:18:40.640 --> 00:18:41.640]   Praise the Father, praise the Son,
+[00:18:41.640 --> 00:18:42.640]   praise the Spirit three in one.
+[00:18:42.640 --> 00:18:43.640]   Loathe in power and in grace,
+[00:18:43.640 --> 00:18:44.640]   the name above all other names.
+[00:18:44.640 --> 00:18:45.640]   Your's is the kingdom,
+[00:18:45.640 --> 00:18:46.640]   Your's is the power,
+[00:18:46.640 --> 00:18:47.640]   Your's is the glory,
+[00:18:47.640 --> 00:18:48.640]   forever and ever.
+[00:18:48.640 --> 00:18:49.640]   Praise the Father, praise the Son,
+[00:18:49.640 --> 00:18:50.640]   praise the Spirit three in one.
+[00:18:50.640 --> 00:18:51.640]   Loathe in power and in grace,
+[00:18:51.640 --> 00:18:52.640]   the name above all other names.
+[00:18:52.640 --> 00:18:53.640]   Praise the Father, praise the Son,
+[00:18:53.640 --> 00:18:54.640]   praise the Spirit three in one.
+[00:18:54.640 --> 00:18:55.640]   Loathe in power and in grace,
+[00:18:55.640 --> 00:18:56.640]   the name above all other names.
+[00:18:56.640 --> 00:18:57.640]   Praise the Father, praise the Son,
+[00:18:57.640 --> 00:18:58.640]   praise the Spirit three in one.
+[00:18:58.640 --> 00:18:59.640]   Loathe in power and in grace,
+[00:18:59.640 --> 00:19:00.640]   the name above all other names.
+[00:19:00.640 --> 00:19:01.640]   Praise the Father, praise the Son,
+[00:19:01.640 --> 00:19:02.640]   praise the Spirit three in one.
+[00:19:02.640 --> 00:19:03.640]   Loathe in power and in grace,
+[00:19:03.640 --> 00:19:04.640]   the name above all other names.
+[00:19:04.640 --> 00:19:05.640]   Praise the Father, praise the Son,
+[00:19:05.640 --> 00:19:06.640]   praise the Spirit three in one.
+[00:19:06.640 --> 00:19:07.640]   Your's is the kingdom,
+[00:19:07.640 --> 00:19:08.640]   Your's is the power,
+[00:19:08.640 --> 00:19:09.640]   Your's is the glory,
+[00:19:09.640 --> 00:19:10.640]   forever and ever.
+[00:19:10.640 --> 00:19:11.640]   Praise the Father, praise the Son,
+[00:19:11.640 --> 00:19:12.640]   praise the Spirit three in one.
+[00:19:12.640 --> 00:19:13.640]   Loathe in power and in grace,
+[00:19:13.640 --> 00:19:14.640]   the name above all other names.
+[00:19:14.640 --> 00:19:15.640]   Praise the Father, praise the Son,
+[00:19:15.640 --> 00:19:16.640]   praise the Spirit three in one.
+[00:19:16.640 --> 00:19:17.640]   Loathe in power and in grace,
+[00:19:17.640 --> 00:19:18.640]   the name above all other names.
+[00:19:18.640 --> 00:19:19.640]   Praise the Father, praise the Son,
+[00:19:19.640 --> 00:19:20.640]   praise the Spirit three in one.
+[00:19:20.640 --> 00:19:21.640]   Loathe in power and in grace,
+[00:19:21.640 --> 00:19:22.640]   the name above all other names.
+[00:19:22.640 --> 00:19:23.640]   Praise the Father, praise the Son,
+[00:19:23.640 --> 00:19:24.640]   praise the Spirit three in one.
+[00:19:24.640 --> 00:19:25.640]   Loathe in power and in grace,
+[00:19:25.640 --> 00:19:26.640]   the name above all other names.
+[00:19:26.640 --> 00:19:27.640]   Praise the Father, praise the Son,
+[00:19:27.640 --> 00:19:28.640]   praise the Spirit three in one.
+[00:19:28.640 --> 00:19:29.640]   Loathe in power and in grace,
+[00:19:29.640 --> 00:19:30.640]   the name above all other names.
+[00:19:30.640 --> 00:19:31.640]   Praise the Father, praise the Son,
+[00:19:31.640 --> 00:19:32.640]   praise the Spirit three in one.
+[00:19:32.640 --> 00:19:33.640]   Loathe in power and in grace,
+[00:19:33.640 --> 00:19:34.640]   the name above all other names.
+[00:19:34.640 --> 00:19:35.640]   Praise the Father, praise the Son,
+[00:19:35.640 --> 00:19:36.640]   praise the Spirit three in one.
+[00:19:36.640 --> 00:19:37.640]   Loathe in power and in grace,
+[00:19:37.640 --> 00:19:38.640]   the name above all other names.
+[00:19:38.640 --> 00:19:39.640]   Praise the Father, praise the Son,
+[00:19:39.640 --> 00:19:40.640]   praise the Spirit three in one.
+[00:19:40.640 --> 00:19:41.640]   Loathe in power and in grace,
+[00:19:41.640 --> 00:19:42.640]   the name above all other names.
+[00:19:42.640 --> 00:19:43.640]   Praise the Father, praise the Son,
+[00:19:43.640 --> 00:19:44.640]   praise the Spirit three in one.
+[00:19:44.640 --> 00:19:45.640]   Loathe in power and in grace,
+[00:19:45.640 --> 00:19:46.640]   the name above all other names.
+[00:19:46.640 --> 00:19:47.640]   Praise the Father, praise the Son,
+[00:19:47.640 --> 00:19:48.640]   praise the Spirit three in one.
+[00:19:48.640 --> 00:19:49.640]   Loathe in power and in grace,
+[00:19:49.640 --> 00:19:50.640]   the name above all other names.
+[00:19:50.640 --> 00:19:51.640]   Praise the Father, praise the Spirit three in one.
+[00:19:51.640 --> 00:19:52.640]   Loathe in power and in grace,
+[00:19:52.640 --> 00:19:53.640]   the name above all other names.
+[00:19:53.640 --> 00:19:54.640]   Praise the Father, praise the Son,
+[00:19:54.640 --> 00:19:55.640]   praise the Spirit three in one.
+[00:19:55.640 --> 00:19:56.640]   Loathe in power and in grace,
+[00:19:56.640 --> 00:19:57.640]   the name above all other names.
+[00:19:57.640 --> 00:19:58.640]   Praise the Father, praise the Spirit three in one.
+[00:19:58.640 --> 00:19:59.640]   Loathe in power and in grace,
+[00:19:59.640 --> 00:20:00.640]   the name above all other names.
+[00:20:00.640 --> 00:20:01.640]   Praise the Father, praise the Son,
+[00:20:01.640 --> 00:20:02.640]   praise the Spirit three in one.
+[00:20:02.640 --> 00:20:03.640]   Loathe in power and in grace,
+[00:20:03.640 --> 00:20:04.640]   the name above all other names.
+[00:20:04.640 --> 00:20:05.640]   Praise the Father, praise the Spirit three in one.
+[00:20:05.640 --> 00:20:06.640]   Loathe in power and in grace,
+[00:20:06.640 --> 00:20:07.640]   the name above all other names.
+[00:20:07.640 --> 00:20:08.640]   Praise the Father, praise the Spirit three in one.
+[00:20:08.640 --> 00:20:09.640]   Loathe in power and in grace,
+[00:20:09.640 --> 00:20:10.640]   the name above all other names.
+[00:20:10.640 --> 00:20:11.640]   Praise the Father, praise the Spirit three in one.
+[00:20:11.640 --> 00:20:12.640]   Loathe in power and in grace,
+[00:20:12.640 --> 00:20:13.640]   the name above all other names.
+[00:20:13.640 --> 00:20:14.640]   Praise the Father, praise the Spirit three in one.
+[00:20:14.640 --> 00:20:15.640]   Loathe in power and in grace,
+[00:20:15.640 --> 00:20:16.640]   the name above all other names.
+[00:20:16.640 --> 00:20:17.640]   Praise the Father, praise the Spirit three in one.
+[00:20:17.640 --> 00:20:18.640]   Loathe in power and in grace,
+[00:20:18.640 --> 00:20:19.640]   the name above all other names.
+[00:20:19.640 --> 00:20:20.640]   Praise the Father, praise the Spirit three in one.
+[00:20:20.640 --> 00:20:21.640]   Loathe in power and in grace,
+[00:20:21.640 --> 00:20:22.640]   the name above all other names.
+[00:20:22.640 --> 00:20:23.640]   Praise the Father, praise the Spirit three in one.
+[00:20:23.640 --> 00:20:24.640]   Loathe in power and in grace,
+[00:20:24.640 --> 00:20:25.640]   the name above all other names.
+[00:20:25.640 --> 00:20:26.640]   Praise the Father, praise the Spirit three in one.
+[00:20:26.640 --> 00:20:27.640]   Loathe in power and in grace,
+[00:20:27.640 --> 00:20:28.640]   the name above all other names.
+[00:20:28.640 --> 00:20:29.640]   Praise the Father, praise the Spirit three in one.
+[00:20:29.640 --> 00:20:30.640]   Loathe in power and in grace,
+[00:20:30.640 --> 00:20:31.640]   the name above all other names.
+[00:20:31.640 --> 00:20:32.640]   Praise the Father, praise the Spirit three in one.
+[00:20:32.640 --> 00:20:33.640]   Loathe in power and in grace,
+[00:20:33.640 --> 00:20:34.640]   the name above all other names.
+[00:20:34.640 --> 00:20:35.640]   Praise the Father, praise the Spirit three in one.
+[00:20:35.640 --> 00:20:36.640]   Loathe in power and in grace,
+[00:20:36.640 --> 00:20:37.640]   the name above all other names.
+[00:20:37.640 --> 00:20:38.640]   Praise the Father, praise the Spirit three in one.
+[00:20:38.640 --> 00:20:39.640]   Loathe in power and in grace,
+[00:20:39.640 --> 00:20:40.640]   the name above all other names.
+[00:20:40.640 --> 00:20:41.640]   Praise the Father, praise the Spirit three in one.
+[00:20:41.640 --> 00:20:42.640]   Loathe in power and in grace,
+[00:20:42.640 --> 00:20:43.640]   the name above all other names.
+[00:20:43.640 --> 00:20:44.640]   Praise the Father, praise the Spirit three in one.
+[00:20:44.640 --> 00:20:45.640]   Loathe in power and in grace,
+[00:20:45.640 --> 00:20:46.640]   the name above all other names.
+[00:20:46.640 --> 00:20:47.640]   Praise the Father, praise the Spirit three in one.
+[00:20:47.640 --> 00:20:48.640]   Loathe in power and in grace,
+[00:20:48.640 --> 00:20:49.640]   the name above all other names.
+[00:20:49.640 --> 00:20:56.640]   ♪ ♪
+[00:20:56.640 --> 00:21:00.640]   ♪ He who was before there was life ♪
+[00:21:00.640 --> 00:21:05.640]   ♪ Walked across the pages of time ♪
+[00:21:05.640 --> 00:21:14.640]   ♪ He who made every living being beholden ♪
+[00:21:14.640 --> 00:21:18.640]   ♪ He who heard humanity's cry ♪
+[00:21:18.640 --> 00:21:19.640]   ♪ He who heard humanity's cry ♪
+[00:21:19.640 --> 00:21:23.640]   ♪ Left His throne to wake as a child ♪
+[00:21:23.640 --> 00:21:31.640]   ♪ He became like the least of us beholden ♪
+[00:21:31.640 --> 00:21:37.640]   ♪ Jesus, Son of God, Messiah ♪
+[00:21:37.640 --> 00:21:42.640]   ♪ The Lamb, the Roaring Lion ♪
+[00:21:42.640 --> 00:21:48.640]   ♪ Oh, be still and behold Him ♪
+[00:21:48.640 --> 00:21:49.640]   ♪ Be still and behold Him ♪
+[00:21:49.640 --> 00:21:50.640]   ♪ Oh, be still and behold Him ♪
+[00:21:50.640 --> 00:21:51.640]   ♪ Oh, be still and behold Him ♪
+[00:21:51.640 --> 00:21:52.640]   ♪ Oh, be still and behold Him ♪
+[00:21:52.640 --> 00:21:53.640]   ♪ Oh, be still and behold Him ♪
+[00:21:53.640 --> 00:21:54.640]   ♪ Oh, be still and behold Him ♪
+[00:21:54.640 --> 00:21:55.640]   ♪ Oh, be still and behold Him ♪
+[00:21:55.640 --> 00:21:56.640]   ♪ Oh, be still and behold Him ♪
+[00:21:56.640 --> 00:21:57.640]   ♪ Oh, be still and behold Him ♪
+[00:21:57.640 --> 00:21:58.640]   ♪ Oh, be still and behold Him ♪
+[00:21:58.640 --> 00:21:59.640]   ♪ Oh, be still and behold Him ♪
+[00:21:59.640 --> 00:22:00.640]   ♪ Oh, be still and behold Him ♪
+[00:22:00.640 --> 00:22:01.640]   ♪ Oh, be still and behold Him ♪
+[00:22:01.640 --> 00:22:02.640]   ♪ Oh, be still and behold Him ♪
+[00:22:02.640 --> 00:22:03.640]   ♪ Oh, be still and behold Him ♪
+[00:22:03.640 --> 00:22:04.640]   ♪ Oh, be still and behold Him ♪
+[00:22:04.640 --> 00:22:05.640]   ♪ Oh, be still and behold Him ♪
+[00:22:05.640 --> 00:22:06.640]   ♪ Oh, be still and behold Him ♪
+[00:22:06.640 --> 00:22:07.640]   ♪ Oh, be still and behold Him ♪
+[00:22:07.640 --> 00:22:08.640]   ♪ Oh, be still and behold Him ♪
+[00:22:08.640 --> 00:22:09.640]   ♪ He who died with sinners and saved ♪
+[00:22:09.640 --> 00:22:14.640]   ♪ Even now He is in our midst ♪
+[00:22:14.640 --> 00:22:18.640]   ♪ Behold Him ♪
+[00:22:18.640 --> 00:22:22.640]   ♪ He who chose the criminal's end ♪
+[00:22:22.640 --> 00:22:27.640]   ♪ Paid with blood to settle our debt ♪
+[00:22:27.640 --> 00:22:32.640]   ♪ Buried dead as He rose to life ♪
+[00:22:32.640 --> 00:22:34.640]   ♪ Behold Him ♪
+[00:22:34.640 --> 00:22:38.640]   ♪ Jesus, Son of God ♪
+[00:22:38.640 --> 00:22:39.640]   ♪ Mercy ♪
+[00:22:39.640 --> 00:22:52.880]   Messiah, the Lamb, the Lord, reliant, hold me still and behold Him.
+[00:22:52.880 --> 00:23:08.880]   Jesus, Alpha and Omega, our God, the risen Savior, hold me still and behold Him.
+[00:23:08.880 --> 00:23:11.040]   Behold Him.
+[00:23:11.040 --> 00:23:28.540]   Holy, holy, holy is the Lord God Almighty.
+[00:23:28.540 --> 00:23:37.520]   Worthy, worthy, worthy to receive all praise.
+[00:23:37.520 --> 00:23:46.600]   Holy, holy, holy is the Lord God Almighty.
+[00:23:46.600 --> 00:23:55.660]   Worthy, worthy, worthy to receive all praise.
+[00:23:55.660 --> 00:24:04.700]   Holy, holy, holy is the Lord God Almighty.
+[00:24:04.700 --> 00:24:05.940]   Worthy, worthy, worthy to receive all praise.
+[00:24:05.940 --> 00:24:05.960]   Worthy, worthy, worthy to receive all praise.
+[00:24:05.960 --> 00:24:05.980]   Worthy, worthy, worthy to receive all praise.
+[00:24:05.980 --> 00:24:07.120]   Worthy, worthy, worthy to receive all praise.
+[00:24:07.120 --> 00:24:07.140]   Worthy, worthy, worthy to receive all praise.
+[00:24:07.140 --> 00:24:07.160]   Worthy, worthy, worthy to receive all praise.
+[00:24:07.160 --> 00:24:07.220]   Worthy, worthy, worthy to receive all praise.
+[00:24:07.220 --> 00:24:07.500]   Worthy, worthy, worthy to receive all praise.
+[00:24:07.500 --> 00:24:14.460]   Worthy, worthy, worthy to receive all praise.
+[00:24:14.460 --> 00:24:32.540]   Jesus, Son of God, Messiah, the Lamb, the Lord, reliant, hold me still and behold Him.
+[00:24:32.540 --> 00:24:37.480]   Jesus, Alpha and Omega, our God, the risen Savior, hold me still and behold Him.
+[00:24:37.480 --> 00:24:51.180]   Jesus, Alpha and Omega, our God, the risen Savior, hold me still and behold Him.
+[00:24:51.180 --> 00:25:21.160]   Jesus, Alpha and Omega, our God, the risen Savior, hold me still and behold Him.
+[00:25:21.160 --> 00:25:24.180]   Hello, my name is Tasha.
+[00:25:24.180 --> 00:25:27.200]   I am a student at CSU Long Beach.
+[00:25:27.200 --> 00:25:32.520]   My testimony starts off like a lot of people.
+[00:25:32.520 --> 00:25:38.240]   I grew up going to church, serving in the children's ministry, going to youth groups and youth camps.
+[00:25:38.240 --> 00:25:44.880]   I was doing all the right things and believed that Jesus came down to save us from our sin, but it was all just mindless believing.
+[00:25:44.880 --> 00:25:48.900]   I have gotten baptized before, the summer between 7th and 8th grade.
+[00:25:48.900 --> 00:25:50.880]   But looking back, I did not truly understand.
+[00:25:50.880 --> 00:25:57.940]   I did not truly understand what it meant to be baptized and the most important factor, I had yet to call Jesus, not only my Savior, but Lord over my life.
+[00:25:57.940 --> 00:26:04.000]   High school came and I was constantly trying to find things to blame God for and avoiding my own sin.
+[00:26:04.000 --> 00:26:13.480]   I blamed Him for why I did not have the perfect family with two parents, why He let my biological parents give me up, money like all of my friends' families did, the list goes on.
+[00:26:13.480 --> 00:26:20.860]   I was extremely ungrateful for what God had provided me with, allowing me to even grow up in a loving home that taught God's word.
+[00:26:21.780 --> 00:26:26.640]   Going to college, God placed wonderful people in my life, exemplifying His love and mercy.
+[00:26:26.640 --> 00:26:34.220]   I was learning not only that I needed to have faith, but also what it means to walk with the Lord and surrender all things to Him.
+[00:26:34.220 --> 00:26:40.540]   I was doing all of these things and wanted to seem like the perfect Christian, but in the back of my mind, it still felt artificial.
+[00:26:40.540 --> 00:26:44.420]   However, in my avoidance self, I pushed it back and kept going on.
+[00:26:44.420 --> 00:26:46.360]   I was comfortable with where I was.
+[00:26:46.360 --> 00:26:50.640]   I desired things like relationships, praise from peers, money.
+[00:26:50.640 --> 00:26:53.400]   I still cared about what others thought of me rather than God.
+[00:26:53.400 --> 00:26:57.280]   I recognized all these things I desired but not of God, and it was sin.
+[00:26:57.280 --> 00:27:01.920]   But I still could not completely understand how someone could forgive all the terrible things I had done.
+[00:27:01.920 --> 00:27:07.820]   Talking with older sisters in church and AACF, I was challenged for the first time in my faith.
+[00:27:07.820 --> 00:27:11.200]   I spent a lot of time reflecting over and asking questions.
+[00:27:11.200 --> 00:27:19.220]   I was finally able to be in the Word, not just to gain head knowledge for when I'm talking to others, but to truly know who God is.
+[00:27:19.220 --> 00:27:20.620]   Romans 3 says,
+[00:27:20.620 --> 00:27:22.300]   Romans 3, 23, 24 says,
+[00:27:22.300 --> 00:27:38.960]   I realized at this point I was focusing so much on how I was a sinner and forgot the whole reason God sent down His Son to live on earth and eventually die on the cross.
+[00:27:38.960 --> 00:27:40.260]   It was to save us from our sin.
+[00:27:40.260 --> 00:27:44.200]   I had to die to myself and recognize how much I needed God.
+[00:27:44.200 --> 00:27:50.600]   As I move on with life, I am constantly learning what it means to walk a Christian life as a daughter of the Father,
+[00:27:50.600 --> 00:27:54.460]   and I can rejoice in His love and the promises that He has fulfilled.
+[00:27:54.460 --> 00:28:00.940]   He has shown me so much of my sin by constantly humbling me and showing me what true confession and repentance is.
+[00:28:00.940 --> 00:28:06.640]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:28:06.640 --> 00:28:36.060]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:28:36.060 --> 00:28:36.500]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:28:36.500 --> 00:29:06.480]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:29:06.480 --> 00:29:06.480]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:29:06.480 --> 00:29:06.480]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:29:06.480 --> 00:29:06.480]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:29:06.480 --> 00:29:36.460]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:29:36.460 --> 00:30:06.440]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:30:06.440 --> 00:30:36.420]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:30:36.420 --> 00:31:06.400]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:31:06.400 --> 00:31:36.380]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:31:36.380 --> 00:32:06.360]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:32:06.360 --> 00:32:36.340]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:32:36.340 --> 00:33:06.320]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:33:06.320 --> 00:33:36.300]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:33:36.300 --> 00:34:06.280]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:34:06.280 --> 00:34:36.260]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:34:36.260 --> 00:35:06.240]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:35:06.240 --> 00:35:36.220]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:35:36.220 --> 00:36:06.200]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:36:06.200 --> 00:36:36.180]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:36:36.180 --> 00:37:06.160]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:37:06.160 --> 00:37:36.140]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:37:36.140 --> 00:38:06.120]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:38:06.120 --> 00:38:36.100]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:38:36.100 --> 00:39:06.080]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:39:06.080 --> 00:39:36.060]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:39:36.060 --> 00:40:06.040]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:40:06.040 --> 00:40:36.020]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:40:36.020 --> 00:41:06.000]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:41:06.000 --> 00:41:35.980]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:41:35.980 --> 00:42:05.960]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:42:05.960 --> 00:42:35.940]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:42:35.940 --> 00:43:05.920]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:43:05.920 --> 00:43:35.900]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:43:35.900 --> 00:44:05.880]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:44:05.880 --> 00:44:35.860]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:44:35.860 --> 00:45:05.840]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:45:05.840 --> 00:45:35.820]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:45:35.820 --> 00:46:05.800]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:46:05.800 --> 00:46:35.780]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:46:35.780 --> 00:47:05.760]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:47:05.760 --> 00:47:35.740]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:47:35.740 --> 00:48:05.720]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:48:05.720 --> 00:48:35.700]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:48:35.700 --> 00:49:05.680]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:49:05.680 --> 00:49:35.660]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:49:35.660 --> 00:50:05.640]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:50:05.640 --> 00:50:35.620]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:50:35.620 --> 00:51:05.480]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:51:05.480 --> 00:51:05.600]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:51:05.600 --> 00:51:35.580]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:51:35.580 --> 00:52:05.560]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:52:05.560 --> 00:52:35.540]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:52:35.540 --> 00:53:05.520]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:53:05.520 --> 00:53:35.500]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:53:35.500 --> 00:54:05.480]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:54:05.480 --> 00:54:35.460]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:54:35.460 --> 00:55:05.440]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:55:05.440 --> 00:55:35.420]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:55:35.420 --> 00:56:05.400]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:56:05.400 --> 00:56:35.380]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:56:35.380 --> 00:57:05.360]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:57:05.360 --> 00:57:05.380]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:57:05.380 --> 00:57:05.380]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:57:05.380 --> 00:57:05.380]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:57:05.380 --> 00:57:05.380]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:57:05.380 --> 00:57:05.400]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:57:05.400 --> 00:57:05.420]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:57:05.420 --> 00:57:05.460]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:57:17.460 --> 00:57:47.440]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:57:47.440 --> 00:58:17.420]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:58:17.420 --> 00:58:47.400]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:58:47.400 --> 00:59:17.380]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:59:17.380 --> 00:59:47.360]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[00:59:47.360 --> 01:00:17.340]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:00:17.340 --> 01:00:47.320]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:00:47.320 --> 01:01:17.300]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:01:17.300 --> 01:01:47.280]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:01:47.280 --> 01:02:17.260]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:02:17.260 --> 01:02:47.240]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:02:47.240 --> 01:02:47.260]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:02:47.260 --> 01:02:47.280]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:02:47.280 --> 01:02:47.280]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:02:47.280 --> 01:02:47.300]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:02:47.300 --> 01:02:47.340]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:02:47.340 --> 01:02:47.400]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:02:47.400 --> 01:02:47.420]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:02:47.420 --> 01:02:47.440]  .
+[01:02:53.320 --> 01:03:21.400]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:03:21.400 --> 01:03:21.420]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:03:21.420 --> 01:03:21.440]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:03:21.440 --> 01:03:21.460]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:03:21.460 --> 01:03:21.480]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:03:21.480 --> 01:03:21.500]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:03:21.500 --> 01:03:21.540]   I can say with full confidence that my hope is in the Lord, and He is not only my Savior, but Lord over my life.
+[01:03:21.540 --> 01:03:25.220]   One thing, if Jesus is going to say something like that, there will be some description, right?
+[01:03:25.220 --> 01:03:26.520]   This is what made Him so great.
+[01:03:26.520 --> 01:03:30.120]   He just says, He's the greatest, because He was a man of conviction.
+[01:03:30.120 --> 01:03:34.180]   Were there no other people who was a man of conviction?
+[01:03:34.180 --> 01:03:35.900]   Wasn't Elijah a man of conviction?
+[01:03:35.900 --> 01:03:38.440]   And he didn't give himself to luxury.
+[01:03:38.440 --> 01:03:40.680]   Wasn't Elijah, didn't he also live in caves?
+[01:03:40.680 --> 01:03:44.300]   Weren't there plenty of prophets and people who gave their life?
+[01:03:44.300 --> 01:03:49.840]   Weren't there people who preached well and was able to do many great things for God?
+[01:03:49.840 --> 01:03:51.440]   What makes judgment?
+[01:03:51.440 --> 01:03:52.800]   John the Greatest.
+[01:03:52.800 --> 01:03:59.880]   It doesn't spell out for us, but the only thing that we know about John the Baptist is his proximity to Christ.
+[01:03:59.880 --> 01:04:02.980]   It's his proximity to Christ.
+[01:04:02.980 --> 01:04:05.260]   Everyone pointed to Jesus coming.
+[01:04:05.260 --> 01:04:09.320]   John the Baptist actually introduced Jesus personally.
+[01:04:09.320 --> 01:04:16.120]   If there's any distinction between anybody that was born, it's his proximity to Christ.
+[01:04:16.120 --> 01:04:18.740]   And that's what made him the greatest.
+[01:04:18.740 --> 01:04:21.420]   He was like the one, like...
+[01:04:21.420 --> 01:04:26.780]   If you were to illustrate, like if you go to some concert,
+[01:04:26.780 --> 01:04:30.080]   you would have a lesser known band come up and they would play
+[01:04:30.080 --> 01:04:33.480]   to warm up the crowd so that the main event, whoever's coming,
+[01:04:33.480 --> 01:04:35.700]   people paid the ticket to see, would come to see.
+[01:04:35.700 --> 01:04:39.860]   But his purpose is to open the act, get the people ready.
+[01:04:39.860 --> 01:04:43.040]   Well, that's what John the Baptist was to do.
+[01:04:43.040 --> 01:04:49.800]   He was come to do, to prepare the people so that hearts would be ready and receptive when Christ comes
+[01:04:49.800 --> 01:04:51.320]   and they preach the same message.
+[01:04:51.320 --> 01:04:54.380]   John the Baptist came saying, repent for the kingdom of heaven is at hand.
+[01:04:54.380 --> 01:04:59.140]   Jesus comes and takes the baton and Jesus opens his ministry by saying,
+[01:04:59.140 --> 01:05:01.180]   repent for the kingdom of heaven is at hand.
+[01:05:01.180 --> 01:05:05.600]   And there was such a smooth transition, they couldn't distinguish between the two.
+[01:05:05.600 --> 01:05:08.760]   And that's why John the Baptist was the greatest.
+[01:05:08.760 --> 01:05:12.480]   Because of his proximity to Christ.
+[01:05:12.480 --> 01:05:16.740]   Now, now we know why John is the greatest.
+[01:05:16.740 --> 01:05:21.160]   But he also says, but in the kingdom of God,
+[01:05:21.160 --> 01:05:22.540]   he is the least.
+[01:05:22.540 --> 01:05:26.360]   He's the greatest and the least.
+[01:05:26.360 --> 01:05:27.580]   How is he the least?
+[01:05:27.580 --> 01:05:29.960]   Who are the people in the kingdom of God he's referring to?
+[01:05:29.960 --> 01:05:33.780]   He's referring to us in the new covenant.
+[01:05:33.780 --> 01:05:39.380]   John the Baptist was a unique prophet where he stood between the old and the new covenant.
+[01:05:39.380 --> 01:05:45.080]   He was the last of the covenant, last of the old covenant prophet that came
+[01:05:45.080 --> 01:05:47.260]   who physically introduced Christ.
+[01:05:47.260 --> 01:05:49.840]   And then when Jesus shows up on the scene, he says,
+[01:05:49.840 --> 01:05:51.120]   he must increase and I must.
+[01:05:51.200 --> 01:05:51.720]   Decrease.
+[01:05:51.720 --> 01:05:53.820]   And then he just disappears.
+[01:05:53.820 --> 01:05:58.620]   So what makes us better than John the Baptist?
+[01:05:58.620 --> 01:06:03.640]   If John the Baptist is greater than David and Abraham and Elijah and Elisha,
+[01:06:03.640 --> 01:06:08.600]   and then he ends it by saying, but he is the least compared to you in the kingdom.
+[01:06:08.600 --> 01:06:12.160]   He basically said, we're better than David.
+[01:06:12.160 --> 01:06:13.840]   We're better than Elijah.
+[01:06:13.840 --> 01:06:14.600]   We are.
+[01:06:14.600 --> 01:06:17.980]   Are we supposed to take that seriously?
+[01:06:17.980 --> 01:06:19.020]   Really?
+[01:06:19.020 --> 01:06:19.120]   Really?
+[01:06:20.800 --> 01:06:23.780]   How are we better than John?
+[01:06:23.780 --> 01:06:26.140]   How are we better than David?
+[01:06:26.140 --> 01:06:32.020]   As John's proximity to Christ made him great,
+[01:06:32.020 --> 01:06:36.540]   it is our proximity to Christ that he's talking about.
+[01:06:36.540 --> 01:06:42.880]   Not us, not our giftedness, not our talent, not our influence, but our proximity.
+[01:06:42.880 --> 01:06:45.940]   It says in Romans 6, 5,
+[01:06:45.940 --> 01:06:49.040]   for if we have become united with him in the likeness of his death,
+[01:06:49.040 --> 01:06:50.780]   certainly we shall also be united.
+[01:06:50.780 --> 01:06:52.480]   We shall also be united in the likeness of his resurrection.
+[01:06:52.480 --> 01:06:56.140]   So whenever somebody gets baptized, it is not just a cleansing,
+[01:06:56.140 --> 01:06:59.880]   it is a union with Christ in his death and his resurrection.
+[01:06:59.880 --> 01:07:01.300]   In 1 Corinthians 6, 17, it says,
+[01:07:01.300 --> 01:07:04.960]   but the one who joins himself to the Lord is one spirit with him.
+[01:07:04.960 --> 01:07:08.300]   Again, in 1 Corinthians 6, 19 to 20,
+[01:07:08.300 --> 01:07:11.340]   or do you not know that your body is a temple of the Holy Spirit who is in you,
+[01:07:11.340 --> 01:07:14.240]   whom you have from God, and that you are not your own?
+[01:07:14.240 --> 01:07:18.340]   For you have been bought with a price, therefore glorify God in your body,
+[01:07:18.340 --> 01:07:19.340]   that you are not your own.
+[01:07:19.340 --> 01:07:20.200]   You have been crucified.
+[01:07:20.460 --> 01:07:21.440]   And we belong to him.
+[01:07:21.440 --> 01:07:26.360]   So what makes us so great is not that we were diamonds in the rough
+[01:07:26.360 --> 01:07:29.900]   and somehow God was able to see beyond the roughness
+[01:07:29.900 --> 01:07:34.640]   so that he can cleanse us off to see the inner value that we have.
+[01:07:34.640 --> 01:07:38.960]   What made John great was his proximity to Christ.
+[01:07:38.960 --> 01:07:45.240]   And what makes us greater than him is the Holy Spirit dwelling in us.
+[01:07:45.240 --> 01:07:49.580]   It is our union with Christ that makes him the least
+[01:07:49.580 --> 01:07:50.140]   because he was a part of us.
+[01:07:50.140 --> 01:07:51.140]   He was a part of the Old Covenant.
+[01:07:51.140 --> 01:07:54.580]   Now, isn't that mind-blowing?
+[01:07:54.580 --> 01:07:56.800]   That's why when John says in 1 John 3, 1,
+[01:07:56.800 --> 01:07:59.740]   see how great the love of Father has bestowed on us.
+[01:07:59.740 --> 01:08:02.580]   I like the King James Version better when he says,
+[01:08:02.580 --> 01:08:08.400]   behold, behold what manner of love the Father has given.
+[01:08:08.400 --> 01:08:11.340]   In other words, take some time to meditate and think
+[01:08:11.340 --> 01:08:14.360]   what it is exactly that you have in Christ
+[01:08:14.360 --> 01:08:19.820]   that God looks upon us and no longer sees who we are.
+[01:08:19.820 --> 01:08:25.020]   That you and I have been clothed with the righteousness of Christ
+[01:08:25.020 --> 01:08:28.500]   so that now when God sees us, he sees his Son.
+[01:08:28.500 --> 01:08:32.540]   So he's not saying we're greater than John.
+[01:08:32.540 --> 01:08:35.420]   He's saying his Son is greater than John.
+[01:08:35.420 --> 01:08:38.380]   Compared to his Son, he's the least.
+[01:08:38.380 --> 01:08:39.300]   That's what he's saying.
+[01:08:39.300 --> 01:08:42.460]   Because we have been covered by the righteousness of Christ
+[01:08:42.460 --> 01:08:44.560]   because of our union with him.
+[01:08:44.560 --> 01:08:49.600]   So if this God was willing to give his Son,
+[01:08:49.600 --> 01:08:53.320]   how will he not along with him give us all other things?
+[01:08:53.320 --> 01:08:58.700]   And that's why he says, behold, what manner of love the Father has given to us
+[01:08:58.700 --> 01:09:02.560]   that we will be called the children of God and such we are.
+[01:09:02.560 --> 01:09:05.120]   And I mentioned this a long time ago.
+[01:09:05.120 --> 01:09:06.120]   This is not from the Bible,
+[01:09:06.120 --> 01:09:09.300]   but this used to hang at my parents' house when we were younger.
+[01:09:09.300 --> 01:09:13.060]   It says, happiness is not having what you want,
+[01:09:13.060 --> 01:09:15.840]   but happiness is wanting what you have.
+[01:09:15.840 --> 01:09:19.340]   See, if you live your life,
+[01:09:19.340 --> 01:09:23.580]   if you're thinking joy, satisfaction, life comes from having what you want,
+[01:09:23.580 --> 01:09:26.820]   you will live your life constantly in coveting,
+[01:09:26.820 --> 01:09:31.020]   dissatisfied because you don't have what others have.
+[01:09:31.020 --> 01:09:34.840]   But true joy is recognizing what we have
+[01:09:34.840 --> 01:09:37.780]   and wanting more of it.
+[01:09:37.780 --> 01:09:40.020]   Even though, I mean, that's not in the Bible.
+[01:09:40.020 --> 01:09:42.120]   Don't quote that and say, you know, it's in the Bible somewhere.
+[01:09:42.120 --> 01:09:43.560]   I got that from some clock.
+[01:09:43.560 --> 01:09:47.300]   But it was so profound that it just kind of stuck.
+[01:09:48.680 --> 01:09:50.180]   And I think it's very biblical.
+[01:09:50.180 --> 01:09:52.040]   At least the principle is so biblical
+[01:09:52.040 --> 01:09:57.560]   that how can people who professes to believe this
+[01:09:57.560 --> 01:10:03.560]   live the rest of their lives coveting something so trivial?
+[01:10:03.560 --> 01:10:06.640]   It's like living in the biggest mansion
+[01:10:06.640 --> 01:10:09.080]   and then looking outside the window and seeing that hut,
+[01:10:09.080 --> 01:10:10.560]   saying, why can't I have that hut?
+[01:10:10.560 --> 01:10:12.720]   Why can't I have that hut?
+[01:10:12.720 --> 01:10:14.320]   I see people coming in and out of that hut.
+[01:10:14.320 --> 01:10:15.760]   Why can't I have that hut?
+[01:10:15.760 --> 01:10:17.880]   While you're living in the mansion,
+[01:10:17.880 --> 01:10:21.240]   you see Christians who live their lives
+[01:10:21.240 --> 01:10:23.120]   constantly coveting trivial things
+[01:10:23.120 --> 01:10:26.800]   is a sign that they don't recognize what they have in Christ.
+[01:10:26.800 --> 01:10:30.540]   They don't know what they have in Christ.
+[01:10:30.540 --> 01:10:33.340]   How can we have been washed in the blood of Christ,
+[01:10:33.340 --> 01:10:35.560]   the Son of God sacrificed for us,
+[01:10:35.560 --> 01:10:38.020]   and we have eternal hope that when He comes,
+[01:10:38.020 --> 01:10:39.560]   we're going to be glorified with Him
+[01:10:39.560 --> 01:10:42.760]   and we're going to be in eternity in heaven forever
+[01:10:42.760 --> 01:10:45.880]   where there's no death, no crying, no pain,
+[01:10:45.880 --> 01:10:47.820]   that we're going to call Him,
+[01:10:47.820 --> 01:10:48.740]   Abba, Father,
+[01:10:48.740 --> 01:10:54.080]   and then to live the rest of our earthly life coveting,
+[01:10:54.080 --> 01:10:55.820]   why can't I have that house?
+[01:10:55.820 --> 01:10:58.100]   Why can't I have that car?
+[01:10:58.100 --> 01:10:59.100]   Why can't I have that job?
+[01:10:59.100 --> 01:11:00.140]   Why can't I have this?
+[01:11:00.140 --> 01:11:05.760]   It's inconsistent with what you and I profess to believe.
+[01:11:05.760 --> 01:11:10.920]   Behold, behold,
+[01:11:10.920 --> 01:11:14.880]   what manner of love the Father has bestowed on us
+[01:11:14.880 --> 01:11:17.260]   that you and I,
+[01:11:17.260 --> 01:11:19.840]   will be greater than John the Baptist
+[01:11:19.840 --> 01:11:21.680]   because of what He's given.
+[01:11:21.680 --> 01:11:24.060]   I pray that that truth would sink in
+[01:11:24.060 --> 01:11:27.240]   and that we would live and worship God accordingly.
+[01:11:27.240 --> 01:11:28.260]   Let's pray.
+[01:11:28.260 --> 01:11:40.700]   Let's take a minute to come before the Lord in confession.
+[01:11:40.700 --> 01:11:44.220]   Confession of where we're at.
+[01:11:44.220 --> 01:11:47.160]   Confession of Christ.
+[01:11:47.200 --> 01:11:47.540]   Confession of love.
+[01:11:47.540 --> 01:11:53.520]   That this truth would continue to sink so deeply within
+[01:11:53.520 --> 01:11:58.140]   that we would covet Christ more than anything else in this world.
+[01:11:58.140 --> 01:12:03.640]   Let's take some time to pray as our worship team leads us.
+[01:12:03.640 --> 01:12:33.480]   Let's pray.
+[01:12:33.480 --> 01:12:33.600]   Let's pray.
+[01:12:33.600 --> 01:12:33.620]   Let's pray.
+[01:12:33.620 --> 01:13:03.600]   Let's pray.
+[01:13:03.600 --> 01:13:03.700]   Let's pray.
+[01:13:03.700 --> 01:13:03.760]   Let's pray.
+[01:13:03.760 --> 01:13:03.800]   Let's pray.
+[01:13:03.800 --> 01:13:03.840]   Let's pray.
+[01:13:03.840 --> 01:13:33.800]   Let's pray.
+[01:13:33.800 --> 01:14:03.780]   Let's pray.
+[01:14:03.780 --> 01:14:33.760]   Let's pray.
+[01:14:33.760 --> 01:15:03.740]   Let's pray.
+[01:15:03.740 --> 01:15:33.720]   Let's pray.
+[01:15:33.720 --> 01:16:03.700]   Let's pray.
+[01:16:03.700 --> 01:16:33.680]   Let's pray.
+[01:16:33.680 --> 01:17:03.660]   Let's pray.
+[01:17:03.660 --> 01:17:10.180]   Let's pray.
+[01:17:10.180 --> 01:17:10.740]   Let's pray.
+[01:17:10.740 --> 01:17:10.760]   Let's pray.
+[01:17:10.760 --> 01:17:10.800]   Let's pray.
+[01:17:10.800 --> 01:17:10.820]   Let's pray.
+[01:17:10.820 --> 01:17:14.780]   Now the grace of our Lord Jesus Christ
+[01:17:14.780 --> 01:17:16.680]   and the fellowship of the Holy Spirit
+[01:17:16.680 --> 01:17:18.920]   and the eternal love of God the Father
+[01:17:18.920 --> 01:17:23.240]   strengthen, encourage, rebuke, and sanctify the church
+[01:17:23.240 --> 01:17:28.460]   that we may all live according to the gospel that you've given us.
+[01:17:28.460 --> 01:17:32.100]   May the aroma of Christ go with us wherever you send us.
+[01:17:32.100 --> 01:17:32.820]   Amen.
+[01:17:32.820 --> 01:17:57.280]   God sent his son, then called him Jesus, he came to love, heal and forgive, he lived
+[01:17:57.280 --> 01:18:02.800]   and died to buy my life.
+[01:18:02.800 --> 01:18:32.780]   He died to buy my life.
+[01:18:32.780 --> 01:18:52.140]   And all fear is gone because I know he holds the future and life is worth the living
+[01:18:52.140 --> 01:18:57.820]   just because he lives.
+[01:18:57.820 --> 01:19:25.020]   And all fear is gone because he lives.
+
