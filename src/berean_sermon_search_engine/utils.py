@@ -6,14 +6,20 @@ def get_project_root():
 
 def get_data_path():
     return get_project_root() / 'data'
- 
+
+def get_raw_path():
+    return get_data_path() / 'raw'
+
+def get_processed_path():
+    return get_data_path() / 'processed'
+
 def get_transcripts_path():
-    return get_data_path() / 'transcripts'
-    
+    # Transcripts are located in data/raw/transcripts
+    return get_raw_path() / 'transcripts'
+
 def get_video_details_path():
-    return get_data_path() / 'video_details'
-    
-    
+    # Video details are located in data/raw/video_details
+    return get_raw_path() / 'video_details'
 
 def setup_logging(log_level=logging.INFO):
     logging.basicConfig(
